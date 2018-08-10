@@ -6,7 +6,7 @@ This git repository helps you collect analytics data from your OpenShift apps an
 ###Step 1. Create OpenShift App###
 
 - Create an account: http://openshift.redhat.com
-- Set up your local machine with the client tools: https://www.openshift.com/developers/rhc-client-tools-install
+- Set up your local machine with the client tools: https://github.com/openshift/rhc/tree/master
 
 Create a ruby-1.9 application (you can call your application whatever you want) that sources from this quickstart.
 <pre>
